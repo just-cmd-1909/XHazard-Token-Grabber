@@ -87,11 +87,5 @@ Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In 
 - Discord Injection 
 > (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the webhook to you.)
 ------------------------------------------------------------------------------------------------------------
-### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
-
-- [Contact me here!](https://discordlookup.com/user/1075072806892621874)
-
-
-- [Our Discord here!](https://discord.gg/74ddhQJcM9)                                                                                                                                                                      
 ------------------------------------------------------------------------------------------------------------
 ⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
