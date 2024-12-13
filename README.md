@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://github.com/DamagingRose/Rose-Injector">PROJECT DISCONTINUED!!! <br>BETTER & UPDATED STEALER HERE</a>!</h1>
+  <h1><a href=""></a>!</h1>
 </div>
 
 
